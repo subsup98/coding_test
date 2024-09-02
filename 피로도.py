@@ -14,4 +14,4 @@ def solution(k, dungeons):
                 count+=1
                 hp -=loss
             max_du=max(max_du,count)
-    return max_du1
+    return max_du
